@@ -1,4 +1,4 @@
-package me.dio.request.credit.system
+package me.dio.request.credit.system.repository
 
 import me.dio.request.credit.system.entity.Credit
 import org.springframework.data.jpa.repository.JpaRepository
